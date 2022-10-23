@@ -1,0 +1,38 @@
+name: generate-pac-file
+
+on:
+  schedule:
+    - cron: 0 0 * * 0
+  push:
+    branches:
+      - master
+    paths:
+      - rules.txt
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.9.7"
+
+      - run: python -m pip install --upgrade pip
+      - run: pip install genpac
+
+      - run: genpac --format pac --user-rule-from ./rules.txt --pac-proxy "SOCKS5 127.0.0.1:1080" > ./pac.txt
+
+      - uses: josStorer/get-current-time@v2.0.1
+        id: time
+        with:
+          format: yyyy-MM-DD
+
+      - uses: EndBug/add-and-commit@v9
+        with:
+          message: "chore: ${{ steps.time.outputs.formattedTime }} update pac.txt"
+          add: pac.txt
+          author_name: "github-actions[bot]"
+          author_email: "github-actions[bot]@users.noreply.github.com"

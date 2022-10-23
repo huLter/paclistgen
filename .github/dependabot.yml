@@ -1,0 +1,12 @@
+version: 2
+
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    rebase-strategy: disabled
+    schedule:
+      interval: monthly
+    assignees:
+      - huLter
+    reviewers:
+      - huLter
