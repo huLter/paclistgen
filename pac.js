@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2022-10-27 10:37:23
+ * Generated: 2022-10-27 10:54:49
  * GFWList Last-Modified: 2022-09-26 01:40:14
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
@@ -112,6 +112,8 @@ var rules = [
             "workers.dev",
             "xda-developers.com",
             "xiaomi.eu",
+            "yahoo.com",
+            "yimg.com",
             "yitianshijie.net",
             "youtube.com",
             "zhiyi.life",
