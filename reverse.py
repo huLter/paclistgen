@@ -23,7 +23,7 @@ for js_var in pac['body']:
             gen_list += f"@@{rule['value']}\n"
         gen_list += "\n\n!------proxy rules from user list\n\n" 
         for rule in js_var['declarations'][0]['init']['elements'][0]['elements'][1]['elements']:
-            gen_list += f"@@{rule['value']}\n"
+            gen_list += f"||{rule['value']}\n"
         gen_list += f"\n!build on {datetime.now(timezone(timedelta(hours=8))).strftime('%y%m%d %H:%M:%S %Z')}\n"
 
 with open("./merge.list", "wb+") as merge_list:
