@@ -32,7 +32,7 @@ jobs:
 
       - uses: EndBug/add-and-commit@v9
         with:
-          message: "chore: ${{ steps.time.outputs.formattedTime }} update pac.txt"
-          add: pac.txt
+          message: "chore: ${{ steps.time.outputs.formattedTime }} update pac.js"
+          add: pac.js
           author_name: "github-actions[bot]"
           author_email: "github-actions[bot]@users.noreply.github.com"
