@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2022-10-27 10:54:49
+ * Generated: 2022-10-27 14:19:09
  * GFWList Last-Modified: 2022-09-26 01:40:14
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
@@ -22,6 +22,7 @@ var rules = [
             "404museum.com",
             "881903.net",
             "acast.com",
+            "aka.ms",
             "amazonaws.com",
             "amazons.com",
             "anchor.fm",
@@ -37,6 +38,7 @@ var rules = [
             "cn1069.info",
             "crazy.capital",
             "deepl.com",
+            "exp-tas.com",
             "feedburner.com",
             "feedly.com",
             "fireside.fm",
@@ -45,6 +47,7 @@ var rules = [
             "getpodcast.xyz",
             "ggpht.com",
             "github.com",
+            "github.dev",
             "github.io",
             "githubassets.com",
             "githubusercontent.com",
@@ -97,6 +100,7 @@ var rules = [
             "textnow.com",
             "theue.me",
             "ticktick.com",
+            "trafficmanager.net",
             "transistor.fm",
             "tvb.com",
             "twitter.com",
@@ -106,6 +110,9 @@ var rules = [
             "v2fly.org",
             "vercel.com",
             "vpnso.com",
+            "vscode-cdn.net",
+            "vscode-unpkg.net",
+            "vscode.dev",
             "weareones.com",
             "wikipedia.org",
             "wordpress.com",
