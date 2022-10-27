@@ -124,6 +124,7 @@
 ||getpocket.com
 ||hkdtmb.com
 ||ifttt.com
+||iui.im	
 ||jsdelivr.net
 ||kodi.tv
 ||logtail.com
