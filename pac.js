@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2022-10-30 02:17:56
- * GFWList Last-Modified: 2022-10-28 14:50:19
+ * Generated: 2022-10-30 06:41:53
+ * GFWList Last-Modified: 2022-10-30 02:47:21
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -27,6 +27,7 @@ var rules = [
             "amazons.com",
             "anchor.fm",
             "anyway.fm",
+            "bad.news",
             "banlan.show",
             "bit.ly",
             "bitwarden.com",
@@ -51,6 +52,7 @@ var rules = [
             "github.io",
             "githubassets.com",
             "githubusercontent.com",
+            "good.news",
             "google.com",
             "googleapis.com",
             "gstatic.com",
@@ -59,6 +61,7 @@ var rules = [
             "ifttt.com",
             "ipn.li",
             "itgonglun.com",
+            "iui.im",
             "jiaocha.io",
             "jsdelivr.net",
             "kexuetuokouxiu.com",
@@ -75,6 +78,7 @@ var rules = [
             "openrailwaymap.org",
             "openstreetmap.org",
             "pan.icu",
+            "ping.pe",
             "pippa.io",
             "podssible.com",
             "pretro.xyz",
@@ -3040,6 +3044,7 @@ var rules = [
             "juoaa.com",
             "justdied.com",
             "justfreevpn.com",
+            "justhost.ru",
             "justicefortenzin.org",
             "justmysocks1.net",
             "justpaste.it",
