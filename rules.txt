@@ -14,12 +14,12 @@
 !
 !   规则优先级从高到底为: user-rule > user-rule-from > gfwlist
 !
-! Tip: 
+! Tip:
 !   如果生成的是PAC文件，用户定义规则先于gfwlist规则被处理
 !   因此可以在这里添加例外或常用网址规则，或能减少在访问这些网址进行查询的时间, 如下面的例子
 !
 !   但其它格式如wingy, dnsmasq则无此必要, 例外规则将被忽略, 所有规则将被排序
-! 
+!
 
 @@sina.com
 @@163.com
@@ -129,13 +129,15 @@
 ||404museum.com
 ||bit.ly
 ||bitwarden.com
+||bad.news
+||good.news
 ||cloudfront.net
 ||deepl.com
 ||feedly.com
 ||getpocket.com
 ||hkdtmb.com
 ||ifttt.com
-||iui.im	
+||iui.im
 ||jsdelivr.net
 ||kodi.tv
 ||logtail.com
@@ -143,6 +145,7 @@
 ||notion.so
 ||openrailwaymap.org
 ||openstreetmap.org
+||ping.pe
 ||python.org
 ||pythonanywhere.com
 ||rsshub.app
