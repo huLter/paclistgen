@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2022-11-03 01:57:02
+ * Generated: 2022-11-03 11:50:41
  * GFWList Last-Modified: 2022-10-30 02:47:21
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
@@ -58,18 +58,21 @@ var rules = [
             "gstatic.com",
             "half.plus",
             "hkdtmb.com",
+            "hostloc.com",
             "ifttt.com",
             "ipn.li",
             "itgonglun.com",
             "iui.im",
             "jiaocha.io",
             "jsdelivr.net",
+            "jwpcdn.com",
             "kexuetuokouxiu.com",
             "kodi.tv",
             "libsyn.com",
             "logtail.com",
             "microsoft.com",
             "monslog.com",
+            "msecnd.net",
             "multcloud.com",
             "nicetrypod.com",
             "notion-static.com",
@@ -98,6 +101,7 @@ var rules = [
             "spotify.net",
             "starfieldtech.com",
             "stboy.net",
+            "stripe.com",
             "taiyilaile.com",
             "techfusionfm.com",
             "telegra.ph",
@@ -127,6 +131,7 @@ var rules = [
             "yimg.com",
             "yitianshijie.net",
             "youtube.com",
+            "zencdn.net",
             "zhiyi.life",
             "zxing.org",
             "zyplayer.fun"
