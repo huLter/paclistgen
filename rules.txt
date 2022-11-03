@@ -100,6 +100,7 @@
 ||github.io
 ||githubassets.com
 ||githubusercontent.com
+||msecnd.net
 ||office.net
 ||sharepointonline.com
 ||sharepoint.com
@@ -136,8 +137,10 @@
 ||feedly.com
 ||getpocket.com
 ||hkdtmb.com
+||hostloc.com
 ||ifttt.com
 ||iui.im
+||jwpcdn.com
 ||jsdelivr.net
 ||kodi.tv
 ||logtail.com
@@ -149,6 +152,7 @@
 ||python.org
 ||pythonanywhere.com
 ||rsshub.app
+||stripe.com
 ||sourceforge.net
 ||telegra.ph
 ||textnow.com
@@ -161,6 +165,7 @@
 ||wordpress.com
 ||xda-developers.com
 ||xiaomi.eu
+||zencdn.net
 ||zxing.org
 ||zyplayer.fun
 ||wikipedia.org
