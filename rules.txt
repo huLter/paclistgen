@@ -100,7 +100,9 @@
 ||github.io
 ||githubassets.com
 ||githubusercontent.com
+||microsoftonline.com
 ||msecnd.net
+||office.com
 ||office.net
 ||sharepointonline.com
 ||sharepoint.com
@@ -132,6 +134,7 @@
 ||bitwarden.com
 ||bad.news
 ||good.news
+||calendly.com
 ||cloudfront.net
 ||deepl.com
 ||feedly.com
@@ -153,6 +156,7 @@
 ||pythonanywhere.com
 ||rsshub.app
 ||stripe.com
+||stripe.network
 ||sourceforge.net
 ||telegra.ph
 ||textnow.com
