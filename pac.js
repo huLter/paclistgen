@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2022-11-09 02:03:09
+ * Generated: 2022-11-09 07:51:17
  * GFWList Last-Modified: 2022-11-05 19:00:57
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
@@ -18,6 +18,7 @@ var rules = [
             "ximalaya.com"
         ],
         [
+            "1drv.ms",
             "2bab.me",
             "404museum.com",
             "881903.net",
@@ -38,8 +39,10 @@ var rules = [
             "cloudflare.com",
             "cloudfront.net",
             "cn1069.info",
+            "cnbeta.com",
             "crazy.capital",
             "deepl.com",
+            "ditiezu.com",
             "exp-tas.com",
             "feedburner.com",
             "feedly.com",
@@ -48,6 +51,7 @@ var rules = [
             "getpocket.com",
             "getpodcast.xyz",
             "ggpht.com",
+            "gitbook.io",
             "github.com",
             "github.dev",
             "github.io",
@@ -60,6 +64,7 @@ var rules = [
             "half.plus",
             "hkdtmb.com",
             "hostloc.com",
+            "id9.cc",
             "ifttt.com",
             "ipn.li",
             "itgonglun.com",
@@ -90,6 +95,7 @@ var rules = [
             "pretro.xyz",
             "python.org",
             "pythonanywhere.com",
+            "razord.top",
             "renjianzhinan.xyz",
             "rsshub.app",
             "rthk.hk",
@@ -102,19 +108,23 @@ var rules = [
             "sourceforge.net",
             "spotify.com",
             "spotify.net",
+            "spotifycdn.com",
             "starfieldtech.com",
             "stboy.net",
             "stripe.com",
             "stripe.network",
+            "t.co",
             "taiyilaile.com",
             "techfusionfm.com",
             "telegra.ph",
             "textnow.com",
             "theue.me",
+            "threadreaderapp.com",
             "ticktick.com",
             "trafficmanager.net",
             "transistor.fm",
             "tvb.com",
+            "tvbanywherena.com",
             "twitter.com",
             "typlog.io",
             "uptimerobot.com",
@@ -130,6 +140,7 @@ var rules = [
             "wordpress.com",
             "workers.dev",
             "xda-developers.com",
+            "xeton.dev",
             "xiaomi.eu",
             "yahoo.com",
             "yimg.com",
