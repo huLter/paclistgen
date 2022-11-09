@@ -80,7 +80,10 @@
 
 
 !-----big company
+!-----twitter related
+||t.co
 ||twitter.com
+||threadreaderapp.com
 
 !------google
 ||youtube.com
@@ -91,6 +94,7 @@
 ||gstatic.com
 
 !------microsoft
+||1drv.ms
 ||aka.ms
 ||exp-tas.com
 ||microsoft.com
@@ -115,6 +119,7 @@
 ||scdn.co
 ||spotify.com
 ||spotify.net
+||spotifycdn.com
 
 !------amazon
 ||amazonaws.com
@@ -139,6 +144,7 @@
 ||deepl.com
 ||feedly.com
 ||getpocket.com
+||gitbook.io
 ||hkdtmb.com
 ||hostloc.com
 ||ifttt.com
@@ -154,6 +160,7 @@
 ||ping.pe
 ||python.org
 ||pythonanywhere.com
+||razord.top
 ||rsshub.app
 ||stripe.com
 ||stripe.network
@@ -162,6 +169,7 @@
 ||textnow.com
 ||ticktick.com
 ||tvb.com
+||tvbanywherena.com
 ||uptimerobot.com
 ||v2fly.org
 ||vercel.com
@@ -174,7 +182,13 @@
 ||zyplayer.fun
 ||wikipedia.org
 
+!------subconver
+||id9.cc
+||xeton.dev
 
+!------china redirect
+||ditiezu.com
+||cnbeta.com
 
 !------porn
 ||stboy.net
