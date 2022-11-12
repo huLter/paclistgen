@@ -187,7 +187,7 @@
 ||xeton.dev
 
 !------china redirect
-||ditiezu.com
+!||ditiezu.com
 ||cnbeta.com
 
 !------porn
