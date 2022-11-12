@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2022-11-12 01:51:40
+ * Generated: 2022-11-12 08:09:18
  * GFWList Last-Modified: 2022-11-05 19:00:57
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
@@ -42,7 +42,6 @@ var rules = [
             "cnbeta.com",
             "crazy.capital",
             "deepl.com",
-            "ditiezu.com",
             "exp-tas.com",
             "feedburner.com",
             "feedly.com",
