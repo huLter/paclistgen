@@ -188,7 +188,7 @@
 
 !------china redirect
 !||ditiezu.com
-||cnbeta.com
+!||cnbeta.com
 
 !------porn
 ||stboy.net
