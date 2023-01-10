@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2023-01-09 01:23:21
- * GFWList Last-Modified: 2023-01-08 00:54:27
+ * Generated: 2023-01-10 01:26:26
+ * GFWList Last-Modified: 2023-01-09 04:07:58
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -374,6 +374,7 @@ var rules = [
             "ablwang.com",
             "aboluowang.com",
             "about.google",
+            "about.me",
             "aboutgfw.com",
             "abs.edu",
             "acast.com",
@@ -897,6 +898,7 @@ var rules = [
             "bullguard.com",
             "bullog.org",
             "bullogger.com",
+            "bumingbai.net",
             "bunbunhk.com",
             "busayari.com",
             "business-humanrights.org",
@@ -1070,6 +1072,7 @@ var rules = [
             "chinadigitaltimes.net",
             "chinaelections.org",
             "chinaeweekly.com",
+            "chinafile.com",
             "chinafreepress.org",
             "chinagate.com",
             "chinageeks.org",
@@ -1486,6 +1489,7 @@ var rules = [
             "dotvpn.com",
             "doub.io",
             "doubibackup.com",
+            "doublethinklab.org",
             "doubmirror.cf",
             "dougscripts.com",
             "douhokanko.net",
@@ -2584,6 +2588,7 @@ var rules = [
             "hhdcb3office.org",
             "hhthesakyatrizin.org",
             "hi-on.org.tw",
+            "hiccears.com",
             "hidden-advent.org",
             "hide.me",
             "hidecloud.com",
@@ -2672,6 +2677,7 @@ var rules = [
             "hmvdigital.com",
             "hnjhj.com",
             "hnntube.com",
+            "hojemacau.com.mo",
             "hola.com",
             "hola.org",
             "holymountaincn.com",
@@ -2696,6 +2702,7 @@ var rules = [
             "hostloc.com",
             "hotair.com",
             "hotav.tv",
+            "hotcoin.com",
             "hotels.cn",
             "hotfrog.com.tw",
             "hotgoo.com",
@@ -2753,6 +2760,7 @@ var rules = [
             "hulkshare.com",
             "hulu.com",
             "huluim.com",
+            "humanrightspressawards.org",
             "hung-ya.com",
             "hungerstrikeforaids.org",
             "huobi.co",
@@ -3150,6 +3158,7 @@ var rules = [
             "koranmandarin.com",
             "korenan2.com",
             "kqes.net",
+            "kraken.com",
             "krtco.com.tw",
             "ksdl.org",
             "ksnews.com.tw",
@@ -3543,6 +3552,7 @@ var rules = [
             "monitorchina.org",
             "monitorware.com",
             "monlamit.org",
+            "monocloud.me",
             "monster.com",
             "moodyz.com",
             "moon.fm",
@@ -3726,6 +3736,7 @@ var rules = [
             "newhighlandvision.com",
             "newipnow.com",
             "newlandmagazine.com.au",
+            "newmitbbs.com",
             "newnews.ca",
             "news100.com.tw",
             "newsancai.com",
@@ -4040,6 +4051,7 @@ var rules = [
             "pastie.org",
             "pathtosharepoint.com",
             "patreon.com",
+            "pawoo.net",
             "paxful.com",
             "pbs.org",
             "pbwiki.com",
@@ -4487,6 +4499,7 @@ var rules = [
             "samair.ru",
             "sambhota.org",
             "sandscotaicentral.com",
+            "sankakucomplex.com",
             "sankei.com",
             "sanmin.com.tw",
             "sans.edu",
@@ -5711,6 +5724,7 @@ var rules = [
             "weblagu.com",
             "webmproject.org",
             "webpack.de",
+            "webpkgcache.com",
             "webrtc.org",
             "webrush.net",
             "webs-tv.net",
