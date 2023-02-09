@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2023-02-08 01:27:01
- * GFWList Last-Modified: 2023-01-09 04:07:58
+ * Generated: 2023-02-09 01:25:59
+ * GFWList Last-Modified: 2023-02-08 04:34:51
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2895,6 +2895,7 @@ var rules = [
             "instagram.com",
             "instanthq.com",
             "institut-tibetain.org",
+            "interactivebrokers.com",
             "internet.org",
             "internetdefenseleague.org",
             "internetfreedom.org",
@@ -3953,6 +3954,7 @@ var rules = [
             "ontrac.com",
             "oopsforum.com",
             "open.com.hk",
+            "openai.com",
             "openallweb.com",
             "opendemocracy.net",
             "opendn.xyz",
@@ -4794,6 +4796,7 @@ var rules = [
             "spreadshirt.es",
             "spring4u.info",
             "springboardplatform.com",
+            "springwood.me",
             "sprite.org",
             "sproutcore.com",
             "sproxy.info",
@@ -5082,6 +5085,7 @@ var rules = [
             "thlib.org",
             "thomasbernhard.org",
             "thongdreams.com",
+            "threadreaderapp.com",
             "threatchaos.com",
             "throughnightsfire.com",
             "thumbzilla.com",
@@ -6026,6 +6030,7 @@ var rules = [
             "yong.hu",
             "yorkbbs.ca",
             "you-get.org",
+            "you.com",
             "youdontcare.com",
             "youjizz.com",
             "youmaker.com",
