@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2023-02-12 01:36:07
+ * Generated: 2023-02-12 08:57:16
  * GFWList Last-Modified: 2023-02-08 04:34:51
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
@@ -74,6 +74,7 @@ var rules = [
             "kodi.tv",
             "libsyn.com",
             "logtail.com",
+            "mastodon.social",
             "microsoft.com",
             "microsoftonline.com",
             "monslog.com",
