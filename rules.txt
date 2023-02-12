@@ -153,6 +153,7 @@
 ||jsdelivr.net
 ||kodi.tv
 ||logtail.com
+||mastodon.social
 ||multcloud.com
 ||notion.so
 ||openrailwaymap.org
