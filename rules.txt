@@ -162,6 +162,7 @@
 ||python.org
 ||pythonanywhere.com
 ||razord.top
+||replit.com
 ||rsshub.app
 ||stripe.com
 ||stripe.network
@@ -169,6 +170,7 @@
 ||telegra.ph
 ||textnow.com
 ||ticktick.com
+||toggl.com
 ||tvb.com
 ||tvbanywherena.com
 ||uptimerobot.com
