@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2023-03-30 01:21:51
+ * Generated: 2023-03-30 14:23:35
  * GFWList Last-Modified: 2023-03-26 13:35:48
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
@@ -96,6 +96,7 @@ var rules = [
             "pythonanywhere.com",
             "razord.top",
             "renjianzhinan.xyz",
+            "replit.com",
             "rsshub.app",
             "rthk.hk",
             "scdn.co",
@@ -120,6 +121,7 @@ var rules = [
             "theue.me",
             "threadreaderapp.com",
             "ticktick.com",
+            "toggl.com",
             "trafficmanager.net",
             "transistor.fm",
             "tvb.com",
