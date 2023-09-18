@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2023-09-17 01:09:53
- * GFWList Last-Modified: 2023-09-09 04:06:49
+ * Generated: 2023-09-18 01:06:29
+ * GFWList Last-Modified: 2023-09-17 16:59:35
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -339,7 +339,6 @@ var rules = [
             "6parkbbs.com",
             "6parker.com",
             "6parknews.com",
-            "7-zip.org",
             "7capture.com",
             "7cow.com",
             "8-d.com",
@@ -1166,7 +1165,7 @@ var rules = [
             "civiliangunner.com",
             "civilmedia.tw",
             "civisec.org",
-            "cjb.net",
+            "civitai.com",
             "ck101.com",
             "clarionproject.org",
             "classicalguitarblog.net",
@@ -3251,6 +3250,7 @@ var rules = [
             "lfpcontent.com",
             "lhakar.org",
             "lhasocialwork.org",
+            "li.taipei",
             "liangyou.net",
             "liangzhichuanmei.com",
             "lianyue.net",
@@ -3562,6 +3562,7 @@ var rules = [
             "mondex.org",
             "money-link.com.tw",
             "moneyhome.biz",
+            "monica.im",
             "monitorchina.org",
             "monitorware.com",
             "monlamit.org",
@@ -4034,7 +4035,6 @@ var rules = [
             "page.link",
             "page.tl",
             "page2rss.com",
-            "pages.dev",
             "pagodabox.com",
             "palacemoon.com",
             "paldengyal.com",
@@ -5271,7 +5271,6 @@ var rules = [
             "tracfone.com",
             "tradingview.com",
             "translate.goog",
-            "translate.google",
             "transparency.org",
             "treemall.com.tw",
             "trendsmap.com",
