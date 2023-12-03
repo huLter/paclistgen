@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2023-12-02 01:07:47
- * GFWList Last-Modified: 2023-09-17 16:59:35
+ * Generated: 2023-12-03 01:14:30
+ * GFWList Last-Modified: 2023-12-02 06:34:49
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -656,6 +656,7 @@ var rules = [
             "backchina.com",
             "backpackers.com.tw",
             "backtotiananmen.com",
+            "bad.news",
             "badiucao.com",
             "badjojo.com",
             "badoo.com",
@@ -2893,6 +2894,7 @@ var rules = [
             "info-graf.fr",
             "informer.com",
             "initiativesforchina.org",
+            "inkbunny.net",
             "inkui.com",
             "inmediahk.net",
             "innermongolia.org",
@@ -3415,6 +3417,7 @@ var rules = [
             "matrix.org",
             "matsushimakaede.com",
             "matters.news",
+            "matters.town",
             "mattwilcox.net",
             "maturejp.com",
             "maxing.jp",
