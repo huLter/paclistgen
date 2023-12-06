@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2023-12-06 01:11:40
+ * Generated: 2023-12-06 01:49:56
  * GFWList Last-Modified: 2023-12-02 06:34:49
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
@@ -60,6 +60,7 @@ var rules = [
             "googleapis.com",
             "gstatic.com",
             "half.plus",
+            "hax.co.id",
             "hkdtmb.com",
             "hostloc.com",
             "id9.cc",
@@ -99,6 +100,7 @@ var rules = [
             "replit.com",
             "rsshub.app",
             "rthk.hk",
+            "sagernet.org",
             "scdn.co",
             "sharepoint.com",
             "sharepointonline.com",
@@ -120,6 +122,7 @@ var rules = [
             "textnow.com",
             "theue.me",
             "threadreaderapp.com",
+            "threads.net",
             "ticktick.com",
             "toggl.com",
             "trafficmanager.net",
@@ -138,6 +141,7 @@ var rules = [
             "vscode.dev",
             "weareones.com",
             "wikipedia.org",
+            "woiden.id",
             "wordpress.com",
             "workers.dev",
             "xda-developers.com",
