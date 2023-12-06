@@ -103,6 +103,7 @@
 ||aka.ms
 ||exp-tas.com
 ||microsoft.com
+
 ||github.com
 ||github.dev
 ||githubusercontent.com
@@ -144,13 +145,19 @@
 ||bitwarden.com
 ||bad.news
 ||good.news
+||codesandbox.io
+||caddy.community
 ||calendly.com
 ||cloudfront.net
+||csb.app
 ||deepl.com
+||dopraxapp.com
 ||feedly.com
+||freedidi.com
 ||getpocket.com
 ||gitbook.io
 ||hkdtmb.com
+||hicairo.com
 ||hostloc.com
 ||ifttt.com
 ||iui.im
@@ -159,6 +166,8 @@
 ||kodi.tv
 ||logtail.com
 ||mastodon.social
+||metacubex.one
+||misaka.rest
 ||multcloud.com
 ||notion.so
 ||openrailwaymap.org
