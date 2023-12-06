@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2023-12-06 01:49:56
+ * Generated: 2023-12-06 13:34:14
  * GFWList Last-Modified: 2023-12-02 06:34:49
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
@@ -35,17 +35,22 @@ var rules = [
             "bneo.tk",
             "busangpodcast.com",
             "buzzsprout.com",
+            "caddy.community",
             "calendly.com",
             "cloudflare.com",
             "cloudfront.net",
             "cn1069.info",
+            "codesandbox.io",
             "crazy.capital",
+            "csb.app",
             "deepl.com",
+            "dopraxapp.com",
             "exp-tas.com",
             "feedburner.com",
             "feedly.com",
             "fireside.fm",
             "firstory.me",
+            "freedidi.com",
             "getpocket.com",
             "getpodcast.xyz",
             "ggpht.com",
@@ -61,6 +66,7 @@ var rules = [
             "gstatic.com",
             "half.plus",
             "hax.co.id",
+            "hicairo.com",
             "hkdtmb.com",
             "hostloc.com",
             "id9.cc",
@@ -76,8 +82,10 @@ var rules = [
             "libsyn.com",
             "logtail.com",
             "mastodon.social",
+            "metacubex.one",
             "microsoft.com",
             "microsoftonline.com",
+            "misaka.rest",
             "monslog.com",
             "msecnd.net",
             "multcloud.com",
