@@ -75,15 +75,20 @@
 ||monslog.com
 ||weareones.com
 
-
 ||bneo.tk
 
+!-----hax
+||hax.co.id
+||woiden.id
 
 !-----big company
 !-----twitter related
 ||t.co
 ||twitter.com
 ||threadreaderapp.com
+
+!-----meta
+||threads.net
 
 !------google
 ||youtube.com
@@ -164,6 +169,7 @@
 ||razord.top
 ||replit.com
 ||rsshub.app
+||sagernet.org
 ||stripe.com
 ||stripe.network
 ||sourceforge.net
