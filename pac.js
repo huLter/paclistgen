@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2024-04-14 01:40:26
- * GFWList Last-Modified: 2024-03-28 18:51:38
+ * Generated: 2024-04-15 03:27:23
+ * GFWList Last-Modified: 2024-04-14 14:56:29
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2838,7 +2838,7 @@ var rules = [
             "ibtimes.com",
             "ibvpn.com",
             "icams.com",
-            "icerocket.com",
+            "icedrive.net",
             "icij.org",
             "icl-fi.org",
             "icoco.com",
@@ -4496,6 +4496,7 @@ var rules = [
             "roodo.com",
             "rosechina.net",
             "rotten.com",
+            "rou.video",
             "rsdlmonitor.com",
             "rsf-chinese.org",
             "rsf.org",
