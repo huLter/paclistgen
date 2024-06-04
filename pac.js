@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2024-06-03 01:14:46
- * GFWList Last-Modified: 2024-06-02 15:11:56
+ * Generated: 2024-06-04 01:14:17
+ * GFWList Last-Modified: 2024-06-03 17:32:45
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3329,7 +3329,6 @@ var rules = [
             "livedoor.jp",
             "liveleak.com",
             "livemint.com",
-            "livestation.com",
             "livestream.com",
             "livevideo.com",
             "livingonline.us",
@@ -3337,7 +3336,7 @@ var rules = [
             "liwangyang.com",
             "lizhizhuangbi.com",
             "lkcn.net",
-            "llss.me",
+            "lmsys.org",
             "lncn.org",
             "load.to",
             "lobsangwangyal.com",
@@ -4379,9 +4378,9 @@ var rules = [
             "qz.com",
             "r0.ru",
             "r18.com",
-            "ra.gg",
             "radicalparty.org",
             "radiko.jp",
+            "radio-canada.ca",
             "radio.garden",
             "radioaustralia.net.au",
             "radiohilight.net",
@@ -4991,6 +4990,7 @@ var rules = [
             "taipei.gov.tw",
             "taipeisociety.org",
             "taipeitimes.com",
+            "taisounds.com",
             "taiwan-sex.com",
             "taiwanbible.com",
             "taiwancon.com",
