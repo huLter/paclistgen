@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2024-06-05 01:13:48
- * GFWList Last-Modified: 2024-06-03 17:32:45
+ * Generated: 2024-06-06 01:13:47
+ * GFWList Last-Modified: 2024-06-05 16:48:37
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -568,6 +568,7 @@ var rules = [
             "apkmonk.com",
             "apkplz.com",
             "apkpure.com",
+            "apkpure.net",
             "aplusvpn.com",
             "appbrain.com",
             "appdownloader.net",
@@ -1435,6 +1436,7 @@ var rules = [
             "deviantart.net",
             "devio.us",
             "devpn.com",
+            "devv.ai",
             "dfas.mil",
             "dfn.org",
             "dharamsalanet.com",
