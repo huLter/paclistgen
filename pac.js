@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2024-10-07 01:37:52
- * GFWList Last-Modified: 2024-09-17 15:45:49
+ * Generated: 2024-10-08 01:37:43
+ * GFWList Last-Modified: 2024-10-07 15:39:43
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1883,6 +1883,7 @@ var rules = [
             "fa.gov.tw",
             "facebook.br",
             "facebook.com",
+            "facebook.de",
             "facebook.design",
             "facebook.hu",
             "facebook.in",
@@ -3620,6 +3621,7 @@ var rules = [
             "meshrep.com",
             "mesotw.com",
             "messenger.com",
+            "meta.com",
             "metacafe.com",
             "metafilter.com",
             "metart.com",
@@ -5426,6 +5428,7 @@ var rules = [
             "torrentproject.se",
             "torrenty.org",
             "torrentz.eu",
+            "tortoisesvn.net",
             "torvpn.com",
             "tosh.comedycentral.com",
             "totalvpn.com",
