@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-03-07 01:40:27
- * GFWList Last-Modified: 2025-03-05 10:44:39
+ * Generated: 2025-03-08 01:14:00
+ * GFWList Last-Modified: 2025-03-07 10:20:58
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -391,6 +391,7 @@ var rules = [
             "66.ca",
             "666kb.com",
             "666pool.cn",
+            "69shuba.cx",
             "6do.news",
             "6do.world",
             "6park.com",
@@ -2407,6 +2408,7 @@ var rules = [
             "github.blog",
             "github.com",
             "github.io",
+            "githubassets.com",
             "githubcopilot.com",
             "githubusercontent.com",
             "gizlen.net",
@@ -2684,6 +2686,7 @@ var rules = [
             "google.vn",
             "google.vu",
             "google.ws",
+            "googleapis.com",
             "googleapps.com",
             "googlearth.com",
             "googleartproject.com",
@@ -3700,7 +3703,6 @@ var rules = [
             "manta.com",
             "manyvoices.news",
             "maplew.com",
-            "maps.googleapis.com",
             "marc.info",
             "marguerite.su",
             "martau.com",
@@ -4525,6 +4527,7 @@ var rules = [
             "politicalconsultation.org",
             "politiscales.net",
             "poloniex.com",
+            "polymarket.com",
             "polymer-project.org",
             "polymerhk.com",
             "poolbinance.com",
@@ -5687,7 +5690,6 @@ var rules = [
             "tradingview.com",
             "trans.wenweipo.com",
             "translate.goog",
-            "translate.googleapis.com",
             "transparency.org",
             "treemall.com.tw",
             "trendsmap.com",
@@ -6284,7 +6286,6 @@ var rules = [
             "wikiversity.org",
             "wikivoyage.org",
             "wikiwand.com",
-            "wikiwiki.jp",
             "wiktionary.org",
             "wildammo.com",
             "williamhill.com",
