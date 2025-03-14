@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-03-13 01:41:18
- * GFWList Last-Modified: 2025-03-10 13:59:17
+ * Generated: 2025-03-14 01:39:20
+ * GFWList Last-Modified: 2025-03-13 11:15:09
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -335,6 +335,7 @@ var rules = [
             "2017.hk",
             "2021hkcharter.com",
             "2047.name",
+            "2047.one",
             "2049bbs.xyz",
             "21andy.com",
             "21sextury.com",
@@ -822,6 +823,7 @@ var rules = [
             "bcmorning.com",
             "bdsmvideos.net",
             "beaconevents.com",
+            "bearteach.com",
             "bebo.com",
             "beeg.com",
             "beepool.com",
@@ -1098,6 +1100,8 @@ var rules = [
             "c3pool.com",
             "cableav.tv",
             "cablegatesearch.net",
+            "cachefly.com",
+            "cachefly.net",
             "cachinese.com",
             "cacnw.com",
             "cactusvpn.com",
@@ -1528,6 +1532,7 @@ var rules = [
             "curvefish.com",
             "cusp.hk",
             "cusu.hk",
+            "cutout.pro",
             "cutscenes.net",
             "cw.com.tw",
             "cyberghost.natado.com",
@@ -1991,6 +1996,7 @@ var rules = [
             "faceless.me",
             "facesofnyfw.com",
             "facesoftibetanselfimmolators.info",
+            "factchecklab.org",
             "factpedia.org",
             "fail.hk",
             "faith100.org",
@@ -2078,7 +2084,6 @@ var rules = [
             "fdc89.jp",
             "feedburner.com",
             "feeder.co",
-            "feedly.comfastgpt.run",
             "feeds.fileforum.com",
             "feedx.net",
             "feelssh.com",
@@ -2267,6 +2272,7 @@ var rules = [
             "froth.zone",
             "fscked.org",
             "fsurf.com",
+            "ft.com",
             "ftchinese.com",
             "ftp1.biz",
             "ftpserver.biz",
@@ -2352,6 +2358,7 @@ var rules = [
             "gcmasia.com",
             "gcpnews.com",
             "gcr.io",
+            "gdaily.org",
             "gdbt.net",
             "gdzf.org",
             "geek-art.net",
@@ -2383,6 +2390,7 @@ var rules = [
             "getmalus.com",
             "getmdl.io",
             "getoutline.org",
+            "getsession.org",
             "getsocialscope.com",
             "getsync.com",
             "gettr.com",
@@ -4062,6 +4070,7 @@ var rules = [
             "netflav.com",
             "netflix.com",
             "netflix.net",
+            "netlify.app",
             "netme.cc",
             "netsarang.com",
             "netsneak.com",
@@ -5148,6 +5157,7 @@ var rules = [
             "soundcloud.com",
             "soundofhope.kr",
             "soundofhope.org",
+            "soundon.fm",
             "soup.io",
             "soupofmedia.com",
             "sourceforge.net",
@@ -5440,6 +5450,7 @@ var rules = [
             "tfc-taiwan.org.tw",
             "tfhub.dev",
             "tfiflve.com",
+            "tg-me.com",
             "th.hao123.com",
             "thaicn.com",
             "thb.gov.tw",
@@ -5468,7 +5479,6 @@ var rules = [
             "thehindu.com",
             "thehun.net",
             "theinitium.com",
-            "themoviedb.org",
             "thenewslens.com",
             "thepiratebay.org",
             "theporndude.com",
@@ -6422,6 +6432,7 @@ var rules = [
             "x-art.com",
             "x-berry.com",
             "x-wall.org",
+            "x.ai",
             "x.co",
             "x.com",
             "x.company",
