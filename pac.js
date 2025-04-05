@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-04-04 01:42:43
- * GFWList Last-Modified: 2025-03-23 08:14:59
+ * Generated: 2025-04-05 01:41:18
+ * GFWList Last-Modified: 2025-04-04 02:23:48
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -711,6 +711,7 @@ var rules = [
             "auctions.yahoo.co.jp",
             "audacy.com",
             "auntology.fandom.com",
+            "auth.openai.com",
             "authorizeddns.net",
             "authorizeddns.org",
             "authorizeddns.us",
@@ -4324,6 +4325,7 @@ var rules = [
             "open.spotify.com",
             "openallweb.com",
             "opendemocracy.net",
+            "opendesktop.org",
             "opendn.xyz",
             "openervpn.in",
             "openid.net",
