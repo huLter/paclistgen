@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-04-12 01:41:32
- * GFWList Last-Modified: 2025-04-04 02:23:48
+ * Generated: 2025-04-13 03:10:21
+ * GFWList Last-Modified: 2025-04-12 07:50:02
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -710,6 +710,7 @@ var rules = [
             "atnext.com",
             "auctions.yahoo.co.jp",
             "audacy.com",
+            "audiomack.com",
             "auntology.fandom.com",
             "auth.openai.com",
             "authorizeddns.net",
@@ -1392,7 +1393,6 @@ var rules = [
             "cloud.dify.ai",
             "cloud.mail.ru",
             "cloudflare-ipfs.com",
-            "cloudfront.net",
             "cloudfunctions.net",
             "club1069.com",
             "clubhouseapi.com",
@@ -4859,6 +4859,7 @@ var rules = [
             "s3-ap-southeast-1.amazonaws.com",
             "s3-ap-southeast-2.amazonaws.com",
             "s3.amazonaws.com",
+            "s3.eu-central-1.amazonaws.com",
             "s8forum.com",
             "sa.hao123.com",
             "sacks.com",
