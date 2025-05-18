@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-05-17 01:47:23
- * GFWList Last-Modified: 2025-05-12 10:04:00
+ * Generated: 2025-05-18 01:56:14
+ * GFWList Last-Modified: 2025-05-17 13:05:21
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -804,6 +804,7 @@ var rules = [
             "bbs.mikocon.com",
             "bbs.morbell.com",
             "bbs.mychat.to",
+            "bbs.naixi.net",
             "bbs.netbig.com",
             "bbs.nyinfor.com",
             "bbs.ozchinese.com",
@@ -3541,6 +3542,8 @@ var rules = [
             "lausan.hk",
             "lbank.info",
             "ld.hao123img.com",
+            "ldplayer.net",
+            "ldplayer.tw",
             "le-vpn.com",
             "leafyvpn.net",
             "lecloud.net",
@@ -4894,6 +4897,7 @@ var rules = [
             "safeguarddefenders.com",
             "safervpn.com",
             "safety.google",
+            "sagernet.org",
             "saintyculture.com",
             "saiq.me",
             "sakuralive.com",
@@ -5640,6 +5644,7 @@ var rules = [
             "ticket.com.tw",
             "tigervpn.com",
             "tiktok.com",
+            "tiktokcdn-eu.com",
             "tiktokcdn-us.com",
             "tiktokcdn.com",
             "tiktokv.com",
