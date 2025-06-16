@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-06-15 02:03:30
- * GFWList Last-Modified: 2025-06-15 01:24:25
+ * Generated: 2025-06-16 01:57:26
+ * GFWList Last-Modified: 2025-06-15 02:04:31
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2629,6 +2629,7 @@ var rules = [
             "himalayanglacier.com",
             "himemix.com",
             "hindustantimes.com",
+            "hinet.net",
             "hitbtc.com",
             "hitomi.la",
             "hiveon.net",
