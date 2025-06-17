@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-06-16 01:57:26
- * GFWList Last-Modified: 2025-06-15 02:04:31
+ * Generated: 2025-06-17 01:54:16
+ * GFWList Last-Modified: 2025-06-16 12:30:48
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3915,6 +3915,7 @@ var rules = [
             "onmypc.org",
             "onthehunt.com",
             "ontrac.com",
+            "oojj.de",
             "open.com.hk",
             "open.firstory.me",
             "openai.com",
