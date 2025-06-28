@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-06-27 01:55:09
- * GFWList Last-Modified: 2025-06-26 13:24:53
+ * Generated: 2025-06-28 01:50:53
+ * GFWList Last-Modified: 2025-06-28 01:01:29
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -203,6 +203,7 @@ var rules = [
             "hchcc.gov.tw",
             "hsinchu-cc.gov.tw",
             "http2.golang.org",
+            "i.pki.goog",
             "ime.baidu.jp",
             "iner.gov.tw",
             "ip.cn",
