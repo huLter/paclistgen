@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-06-28 01:50:53
- * GFWList Last-Modified: 2025-06-28 01:01:29
+ * Generated: 2025-06-29 02:04:58
+ * GFWList Last-Modified: 2025-06-28 11:01:38
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2870,6 +2870,7 @@ var rules = [
             "imdb.com",
             "img.dlsite.jp",
             "img.ly",
+            "img.picgo.net",
             "imgasd.com",
             "imgchili.net",
             "imgmega.com",
