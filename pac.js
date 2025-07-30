@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-07-29 02:20:36
- * GFWList Last-Modified: 2025-07-27 05:22:39
+ * Generated: 2025-07-30 02:04:34
+ * GFWList Last-Modified: 2025-07-29 05:14:47
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -5614,6 +5614,7 @@ var rules = [
             "wahas.com",
             "waikeung.org",
             "wainao.me",
+            "walletconnect.com",
             "wallmama.com",
             "wallpapercasa.com",
             "wallproxy.com",
