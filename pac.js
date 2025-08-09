@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-08-08 02:05:10
- * GFWList Last-Modified: 2025-08-03 13:23:14
+ * Generated: 2025-08-09 01:54:19
+ * GFWList Last-Modified: 2025-08-08 14:50:02
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -835,6 +835,7 @@ var rules = [
             "bitcointalk.org",
             "bitcoinworld.com",
             "bitfinex.com",
+            "bitget.com",
             "bithumb.com",
             "bitmex.com",
             "bitshare.com",
@@ -1273,6 +1274,7 @@ var rules = [
             "clipfish.de",
             "cloud.dify.ai",
             "cloud.mail.ru",
+            "cloudflare-dns.com",
             "cloudflare-ipfs.com",
             "cloudfunctions.net",
             "club1069.com",
@@ -5407,6 +5409,7 @@ var rules = [
             "unstable.icu",
             "unwire.hk",
             "uocn.org",
+            "upbit.com",
             "updates.tdesktop.com",
             "upghsbc.com",
             "upholdjustice.org",
@@ -5828,7 +5831,6 @@ var rules = [
             "www.moztw.org",
             "www.msn.com",
             "www.nbc.com",
-            "www.nodeloc.com",
             "www.owind.com",
             "www.oxid.it",
             "www.powerpointninja.com",
