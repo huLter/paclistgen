@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-09-13 01:27:06
- * GFWList Last-Modified: 2025-09-06 01:15:50
+ * Generated: 2025-09-14 01:46:33
+ * GFWList Last-Modified: 2025-09-13 04:13:45
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3420,6 +3420,7 @@ var rules = [
             "mcaf.ee",
             "mcfog.com",
             "mcreasite.com",
+            "mcusercontent.com",
             "md-t.org",
             "me.me",
             "me.ns.ci",
@@ -4615,6 +4616,7 @@ var rules = [
             "simpleproductivityblog.com",
             "simpleswap.io",
             "simplex.chat",
+            "sina.com.hk",
             "sinchew.com.my",
             "singaporepools.com.sg",
             "singfortibet.com",
@@ -4915,6 +4917,7 @@ var rules = [
             "taiwanus.net",
             "taiwanyes.ning.com",
             "talk853.com",
+            "talkatone.com",
             "talkboxapp.com",
             "talkcc.com",
             "talkonly.net",
