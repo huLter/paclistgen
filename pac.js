@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-09-19 01:42:33
- * GFWList Last-Modified: 2025-09-13 04:13:45
+ * Generated: 2025-09-20 01:37:54
+ * GFWList Last-Modified: 2025-09-19 14:43:25
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2133,6 +2133,7 @@ var rules = [
             "gardennetworks.com",
             "gardennetworks.org",
             "gartlive.com",
+            "garudalinux.org",
             "gate.io",
             "gatecoin.com",
             "gather.com",
@@ -2208,6 +2209,7 @@ var rules = [
             "githubassets.com",
             "githubcopilot.com",
             "githubusercontent.com",
+            "gitlab.com",
             "gitlab.net",
             "gizlen.net",
             "gjczz.com",
@@ -3795,6 +3797,7 @@ var rules = [
             "ninjacloak.com",
             "ninjaproxy.ninja",
             "nintendium.com",
+            "nirsoft.net",
             "nitter.cc",
             "nitter.net",
             "niu.moe",
@@ -5631,6 +5634,7 @@ var rules = [
             "vpnworldwide.com",
             "vporn.com",
             "vpser.net",
+            "vpsxb.net",
             "vraiesagesse.net",
             "vrchat.com",
             "vrmtr.com",
