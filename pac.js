@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-09-23 01:40:31
- * GFWList Last-Modified: 2025-09-22 14:02:58
+ * Generated: 2025-09-24 01:41:50
+ * GFWList Last-Modified: 2025-09-24 01:26:08
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -591,6 +591,7 @@ var rules = [
             "api-secure.recaptcha.net",
             "api-verify.recaptcha.net",
             "api.ai",
+            "api.palworldgame.com",
             "api.pureapk.com",
             "api.recaptcha.net",
             "api.steampowered.com",
@@ -1396,6 +1397,7 @@ var rules = [
             "csw.org.uk",
             "ct.org.tw",
             "ctao.org",
+            "ctinets.com",
             "ctinews.com",
             "ctitv.com.tw",
             "ctowc.org",
@@ -2932,6 +2934,7 @@ var rules = [
             "internetdefenseleague.org",
             "internetfreedom.org",
             "internetpopculture.com",
+            "interseclab.org",
             "inthenameofconfuciusmovie.com",
             "investigating.wordpress.com",
             "invidio.us",
@@ -3897,6 +3900,7 @@ var rules = [
             "ocreampies.com",
             "ocry.com",
             "october-review.org",
+            "octocaptcha.com",
             "oculus.com",
             "oculuscdn.com",
             "odysee.com",
