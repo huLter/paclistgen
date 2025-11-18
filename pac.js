@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-11-17 01:51:22
- * GFWList Last-Modified: 2025-11-14 13:31:14
+ * Generated: 2025-11-18 01:49:22
+ * GFWList Last-Modified: 2025-11-17 09:45:35
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -453,6 +453,7 @@ var rules = [
             "addons.mozilla.org",
             "addyoutube.com",
             "adelaidebbs.com",
+            "adguard-vpn.com",
             "admin.recaptcha.net",
             "admob.com",
             "adpl.org.hk",
@@ -2609,6 +2610,7 @@ var rules = [
             "have8.com",
             "hbg.com",
             "hbo.com",
+            "hbomax.com",
             "hclips.com",
             "hd.stheadline.com",
             "hdtvb.net",
@@ -3550,6 +3552,7 @@ var rules = [
             "mixx.com",
             "mizzmona.com",
             "mjib.gov.tw",
+            "mjj.rip",
             "mjlsh.usc.cuhk.edu.hk",
             "mlc.ai",
             "mlcool.com",
@@ -4462,6 +4465,7 @@ var rules = [
             "rumble.com",
             "runbtx.com",
             "rushbee.com",
+            "rustdesk.com",
             "rusvpn.com",
             "ruten.com.tw",
             "rutracker.net",
