@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-11-19 01:49:27
- * GFWList Last-Modified: 2025-11-18 15:18:01
+ * Generated: 2025-11-20 01:47:59
+ * GFWList Last-Modified: 2025-11-19 14:42:44
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1290,6 +1290,7 @@ var rules = [
             "cloud.mail.ru",
             "cloudflare-dns.com",
             "cloudflare-ipfs.com",
+            "cloudflarestatus.com",
             "cloudfunctions.net",
             "club1069.com",
             "clubhouseapi.com",
@@ -3283,6 +3284,7 @@ var rules = [
             "liberal.org.hk",
             "libertysculpturepark.com",
             "libertytimes.com.tw",
+            "library-access.sk",
             "library.usc.cuhk.edu.hk",
             "libredd.it",
             "lifemiles.com",
@@ -3508,6 +3510,7 @@ var rules = [
             "middle-way.net",
             "mihr.com",
             "mihua.org",
+            "mij.rip",
             "mikanani.me",
             "mike.cz.cc",
             "mikesoltys.com",
@@ -3552,6 +3555,7 @@ var rules = [
             "mixpod.com",
             "mixx.com",
             "mizzmona.com",
+            "mji.rip",
             "mjib.gov.tw",
             "mjj.rip",
             "mjlsh.usc.cuhk.edu.hk",
@@ -5973,6 +5977,7 @@ var rules = [
             "xmovies.com",
             "xn--11xs86f.icu",
             "xn--4gq171p.com",
+            "xn--9iqy04a7fi01l.com",
             "xn--9pr62r24a.com",
             "xn--czq75pvv1aj5c.org",
             "xn--i2ru8q2qg.com",
