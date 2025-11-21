@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-11-20 01:47:59
- * GFWList Last-Modified: 2025-11-19 14:42:44
+ * Generated: 2025-11-21 01:49:05
+ * GFWList Last-Modified: 2025-11-20 05:56:59
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2544,6 +2544,7 @@ var rules = [
             "greasyfork.org",
             "greatfire.org",
             "greatfire.us7.list-manage.com",
+            "greatfirevpn.com",
             "greatfirewall.biz",
             "greatfirewallofchina.org",
             "greatroc.org",
@@ -5811,6 +5812,7 @@ var rules = [
             "wikipedia.com",
             "wikipedia.org",
             "wikisource.org",
+            "wikiunblocked.org",
             "wikiversity.org",
             "wikivoyage.org",
             "wikiwand.com",
