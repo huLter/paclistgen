@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-11-22 01:45:11
- * GFWList Last-Modified: 2025-11-21 13:26:14
+ * Generated: 2025-11-23 02:03:11
+ * GFWList Last-Modified: 2025-11-22 11:41:21
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3704,6 +3704,7 @@ var rules = [
             "nalandawest.org",
             "namgyal.org",
             "namgyalmonastery.org",
+            "namu.wiki",
             "nanopool.org",
             "nanyang.com",
             "nanyangpost.com",
@@ -4128,6 +4129,7 @@ var rules = [
             "picacomiccn.com",
             "picasaweb.com",
             "picidae.net",
+            "picsart.com",
             "picturedip.com",
             "picturesocial.com",
             "picuki.com",
