@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-12-21 02:03:12
- * GFWList Last-Modified: 2025-12-19 11:28:02
+ * Generated: 2025-12-22 02:02:32
+ * GFWList Last-Modified: 2025-12-21 02:05:16
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -4836,6 +4836,7 @@ var rules = [
             "startuplivingchina.com",
             "stat.gov.tw",
             "static-economist.com",
+            "static.pocketcasts.com",
             "static.shemalez.com",
             "static01.nyt.com",
             "staticflickr.com",
