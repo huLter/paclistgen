@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-12-24 01:55:53
- * GFWList Last-Modified: 2025-12-21 02:05:16
+ * Generated: 2025-12-25 01:57:52
+ * GFWList Last-Modified: 2025-12-24 08:18:43
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3743,6 +3743,7 @@ var rules = [
             "nemesis2.qx.net",
             "neo-miracle.com",
             "neowin.net",
+            "nephobox.com",
             "netalert.me",
             "netbirds.com",
             "netcolony.com",
