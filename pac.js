@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-12-26 01:57:04
- * GFWList Last-Modified: 2025-12-24 08:18:43
+ * Generated: 2025-12-27 01:54:55
+ * GFWList Last-Modified: 2025-12-26 07:03:42
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1245,7 +1245,6 @@ var rules = [
             "chromecast.com",
             "chromeexperiments.com",
             "chromestatus.com",
-            "chromium.org",
             "chuang-yen.org",
             "chubold.com",
             "chubun.com",
@@ -3358,6 +3357,7 @@ var rules = [
             "looktoronto.com",
             "lotsawahouse.org",
             "lotuslight.org.tw",
+            "lovart.ai",
             "lovetvshow.com",
             "lpsg.com",
             "lrfz.com",
