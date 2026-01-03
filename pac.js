@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-01-02 02:00:20
- * GFWList Last-Modified: 2026-01-01 02:42:02
+ * Generated: 2026-01-03 01:54:04
+ * GFWList Last-Modified: 2026-01-02 09:38:24
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -236,7 +236,6 @@ var rules = [
             "nvri.gov.tw",
             "ocsp.pki.goog",
             "penghu-nsa.gov.tw",
-            "pinterest.cn",
             "post.gov.tw",
             "qq.com",
             "redirector.gvt1.com",
@@ -4149,6 +4148,23 @@ var rules = [
             "pinimg.com",
             "pinkrod.com",
             "pinoy-n.com",
+            "pinterest.at",
+            "pinterest.ca",
+            "pinterest.cl",
+            "pinterest.co.uk",
+            "pinterest.com",
+            "pinterest.com.au",
+            "pinterest.com.mx",
+            "pinterest.de",
+            "pinterest.es",
+            "pinterest.fr",
+            "pinterest.ie",
+            "pinterest.it",
+            "pinterest.jp",
+            "pinterest.nz",
+            "pinterest.ph",
+            "pinterest.pt",
+            "pinterest.se",
             "pioneer-worker.forums-free.com",
             "pipii.tv",
             "piraattilahti.org",
