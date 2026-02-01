@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-01-31 02:21:41
- * GFWList Last-Modified: 2026-01-30 12:58:01
+ * Generated: 2026-02-01 02:45:48
+ * GFWList Last-Modified: 2026-02-01 02:37:13
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -750,6 +750,7 @@ var rules = [
             "bbc.co.uk",
             "bbc.com",
             "bbc.in",
+            "bbc.pdn.tritondigital.com",
             "bbcchinese.com",
             "bbchat.tv",
             "bbci.co.uk",
@@ -1499,6 +1500,7 @@ var rules = [
             "dbgjd.com",
             "dcard.tw",
             "dcmilitary.com",
+            "dcs-spotify.megaphone.fm",
             "ddc.com.tw",
             "ddex.io",
             "ddns.info",
@@ -2636,6 +2638,7 @@ var rules = [
             "helloandroid.com",
             "helloqueer.com",
             "hellouk.org",
+            "help.byspotify.com",
             "helpeachpeople.com",
             "helpster.de",
             "helpzhuling.org",
@@ -4975,6 +4978,7 @@ var rules = [
             "tafm.org",
             "tagwalk.com",
             "tahr.org.tw",
+            "tails.net",
             "taipei.gov.tw",
             "taipeisociety.org",
             "taipeitimes.com",
