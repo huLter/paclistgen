@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-02-14 02:26:29
- * GFWList Last-Modified: 2026-02-13 12:49:26
+ * Generated: 2026-02-15 02:39:08
+ * GFWList Last-Modified: 2026-02-15 02:29:54
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1554,6 +1554,7 @@ var rules = [
             "glype.com",
             "gmail.com",
             "gmgard.com",
+            "gmgn.ai",
             "gmodules.com",
             "gmp4.com",
             "gnci.org.hk",
@@ -3975,9 +3976,11 @@ var rules = [
             "waffle1999.com",
             "wainao.me",
             "walletconnect.com",
+            "walletconnect.org",
             "wallmama.com",
             "wallpapercasa.com",
             "wallsttv.com",
+            "wallzhihu.com",
             "waltermartin.com",
             "waltermartin.org",
             "wanderinghorse.net",
