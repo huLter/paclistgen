@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-02-18 02:34:31
- * GFWList Last-Modified: 2026-02-16 11:10:32
+ * Generated: 2026-02-19 02:33:24
+ * GFWList Last-Modified: 2026-02-18 13:32:07
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1846,6 +1846,7 @@ var rules = [
             "gutteruncensored.com",
             "gvlib.com",
             "gvm.com.tw",
+            "gvt1.com",
             "gvt3.com",
             "gwins.org",
             "gwtproject.org",
@@ -2535,6 +2536,7 @@ var rules = [
             "moresci.sale",
             "morningsun.org",
             "mos.ru",
+            "mosavi.io",
             "motherless.com",
             "movements.org",
             "moviefap.com",
