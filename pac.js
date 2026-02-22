@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-02-21 02:22:47
- * GFWList Last-Modified: 2026-02-18 13:32:07
+ * Generated: 2026-02-22 02:34:32
+ * GFWList Last-Modified: 2026-02-21 07:04:51
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -334,6 +334,7 @@ var rules = [
             "akamaihd.net",
             "akiba-online.com",
             "akiba-web.com",
+            "akile.io",
             "akinator.com",
             "akow.org",
             "alabout.com",
@@ -468,6 +469,7 @@ var rules = [
             "aspistrategist.org.au",
             "assembla.com",
             "assets.bwbx.io",
+            "assets.nxtrace.org",
             "assimp.org",
             "astrill.com",
             "atc.org.au",
@@ -2427,6 +2429,7 @@ var rules = [
             "mediafreakcity.com",
             "mediawiki.org",
             "medium.com",
+            "meee.com.tw",
             "meetup.com",
             "mega.co.nz",
             "mega.io",
@@ -2761,6 +2764,7 @@ var rules = [
             "ooni.org",
             "open.firstory.me",
             "openai.com",
+            "opencritic.com",
             "opendemocracy.net",
             "openid.net",
             "openleaks.org",
@@ -4096,6 +4100,7 @@ var rules = [
             "www.antd.org",
             "www.aolnews.com",
             "www.bing.com",
+            "www.clashverge.dev",
             "www.cmoinc.org",
             "www.dmm.com",
             "www.eastturkistan.net",
