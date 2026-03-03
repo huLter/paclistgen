@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-03-02 02:30:20
- * GFWList Last-Modified: 2026-03-02 01:34:37
+ * Generated: 2026-03-03 02:32:41
+ * GFWList Last-Modified: 2026-03-02 11:25:14
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2397,6 +2397,7 @@ var rules = [
             "mangafox.me",
             "mangmang.run",
             "manta.com",
+            "manus.im",
             "manyvoices.news",
             "marc.info",
             "martau.com",
