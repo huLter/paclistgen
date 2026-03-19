@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-03-18 02:36:05
- * GFWList Last-Modified: 2026-03-14 13:06:19
+ * Generated: 2026-03-19 02:37:16
+ * GFWList Last-Modified: 2026-03-18 08:25:59
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -277,6 +277,7 @@ var rules = [
             "a-normal-day.com",
             "a248.e.akamai.net",
             "aamacau.com",
+            "aave.com",
             "abc.net.au",
             "abc.xyz",
             "abebooks.co.uk",
