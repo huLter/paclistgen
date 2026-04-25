@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-04-24 03:18:10
- * GFWList Last-Modified: 2026-04-22 12:34:44
+ * Generated: 2026-04-25 02:47:42
+ * GFWList Last-Modified: 2026-04-24 07:27:37
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3482,6 +3482,7 @@ var rules = [
             "tbsn.org",
             "tbssqh.org",
             "teachparentstech.org",
+            "techbang.com",
             "technews.tw",
             "techviz.net",
             "teck.in",
