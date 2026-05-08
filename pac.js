@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-05-07 03:32:46
- * GFWList Last-Modified: 2026-05-06 04:13:48
+ * Generated: 2026-05-08 03:28:14
+ * GFWList Last-Modified: 2026-05-07 10:57:30
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3826,6 +3826,7 @@ var rules = [
             "ultrasurf.us",
             "ultravpn.com",
             "ultravpn.fr",
+            "umap.openstreetmap.fr",
             "unblock-us.com",
             "unblock.cn.com",
             "unblockdmm.com",
