@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-05-17 03:49:54
- * GFWList Last-Modified: 2026-05-13 10:51:27
+ * Generated: 2026-05-18 04:02:02
+ * GFWList Last-Modified: 2026-05-17 09:41:29
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3272,6 +3272,7 @@ var rules = [
             "shwchurch.org",
             "shwchurch3.com",
             "sidelinesnews.com",
+            "sider.ai",
             "signal.org",
             "silvergatebank.com",
             "simbolostwitter.com",
@@ -4332,6 +4333,7 @@ var rules = [
             "zh.pokerstrategy.com",
             "zh.wikiquote.org",
             "zhangtianliang.com",
+            "zhangzhehan.net",
             "zhanlve.org",
             "zhao.1984.city",
             "zhengjian.org",
