@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-05-20 03:56:20
- * GFWList Last-Modified: 2026-05-17 09:41:29
+ * Generated: 2026-05-21 04:05:03
+ * GFWList Last-Modified: 2026-05-20 11:47:07
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1293,6 +1293,7 @@ var rules = [
             "f-droid.org",
             "f2pool.com",
             "f8.com",
+            "f95zone.to",
             "facebook.com",
             "facebook.de",
             "facebook.design",
@@ -1480,6 +1481,7 @@ var rules = [
             "fxnetworks.com",
             "g-area.org",
             "g-queen.com",
+            "g.ai",
             "g.co",
             "g0v.social",
             "g6hentai.com",
@@ -2327,6 +2329,7 @@ var rules = [
             "lematin.ch",
             "lemonde.fr",
             "lenwhite.com",
+            "leonardo.ai",
             "lesoir.be",
             "letscorp.net",
             "lexica.art",
@@ -3091,6 +3094,7 @@ var rules = [
             "raizoji.or.jp",
             "rakuten.co.jp",
             "ramcity.com.au",
+            "raphael.app",
             "rapidmoviez.com",
             "rapidvpn.com",
             "rarbgprx.org",
@@ -3170,6 +3174,7 @@ var rules = [
             "rti.tw",
             "rtm.tnt-ea.com",
             "rts.ch",
+            "rule34.us",
             "rule34.xxx",
             "rule34video.com",
             "rumble.com",
@@ -3348,6 +3353,7 @@ var rules = [
             "sos.org",
             "sosad.fun",
             "sosreader.com",
+            "sotwe.com",
             "soubory.com",
             "soulcaliburhentai.net",
             "soundcloud.com",
