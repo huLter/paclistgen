@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-05-27 04:09:53
- * GFWList Last-Modified: 2026-05-25 04:46:31
+ * Generated: 2026-05-28 03:57:59
+ * GFWList Last-Modified: 2026-05-27 09:39:21
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1160,6 +1160,7 @@ var rules = [
             "douchi.space",
             "dougscripts.com",
             "doujincafe.com",
+            "dowjones.io",
             "download.dappcdn.com",
             "dpool.top",
             "dpp.org.tw",
