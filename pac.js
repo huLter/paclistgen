@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-06-19 04:47:20
- * GFWList Last-Modified: 2026-06-19 04:15:23
+ * Generated: 2026-06-20 04:02:16
+ * GFWList Last-Modified: 2026-06-19 14:36:45
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -216,6 +216,7 @@ var rules = [
             "173ng.com",
             "18board.com",
             "18comic.org",
+            "18mh.net",
             "1984bbs.com",
             "1991way.com",
             "1e100.net",
@@ -600,6 +601,7 @@ var rules = [
             "bignews.org",
             "bigone.com",
             "bild.de",
+            "bilinovel.com",
             "biliworld.com",
             "binance.com",
             "binance.org",
