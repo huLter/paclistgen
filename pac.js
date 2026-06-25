@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-06-24 03:54:58
- * GFWList Last-Modified: 2026-06-19 14:36:45
+ * Generated: 2026-06-25 03:56:15
+ * GFWList Last-Modified: 2026-06-24 13:45:12
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1564,6 +1564,7 @@ var rules = [
             "genius.com",
             "geph.io",
             "get.app",
+            "get.dappcdn.com",
             "get.dev",
             "get.how",
             "get.page",
