@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-07-27 03:29:50
- * GFWList Last-Modified: 2026-07-24 04:52:38
+ * Generated: 2026-07-28 02:46:23
+ * GFWList Last-Modified: 2026-07-27 03:36:40
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3831,6 +3831,7 @@ var rules = [
             "truebuddha-md.org",
             "trustwallet.com",
             "truthsocial.com",
+            "tryai.dev",
             "tryheart.jp",
             "tsdr.uspto.gov",
             "tt1069.com",
