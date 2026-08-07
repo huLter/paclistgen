@@ -26,7 +26,7 @@ jobs:
       - run: genpac --format pac --user-rule-from ./rules.txt --pac-proxy "SOCKS5 127.0.0.1:9833" --output pac.js
       - run: python ./reverse.py
 
-      - uses: josStorer/get-current-time@v2.0.2
+      - uses: josStorer/get-current-time@v2.1.1
         id: time
         with:
           format: yyyy-MM-DD
