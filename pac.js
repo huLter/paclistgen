@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-09-04 03:40:36
- * GFWList Last-Modified: 2026-08-30 14:57:02
+ * Generated: 2026-09-05 03:40:22
+ * GFWList Last-Modified: 2026-09-04 10:44:38
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1041,6 +1041,7 @@ var rules = [
             "csuchen.de",
             "csw.org.uk",
             "ct.org.tw",
+            "ctee.com.tw",
             "ctinets.com",
             "ctinews.com",
             "ctinsider.com",
@@ -2021,6 +2022,7 @@ var rules = [
             "hkcoc.com",
             "hkcoc.weather.com.hk",
             "hkdc.us",
+            "hkej.com",
             "hket.com",
             "hkfaa.com",
             "hkgalden.com",
@@ -2443,6 +2445,7 @@ var rules = [
             "linktr.ee",
             "linux.do",
             "linux.org.hk",
+            "linux.sb",
             "liquiditytp.com",
             "liquidvpn.com",
             "listennotes.com",
